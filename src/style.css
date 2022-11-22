@@ -1,1 +1,12 @@
-/* styles go here */
+.formfield {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.bloc {
+  margin-bottom: 20px;
+}

@@ -1,4 +1,4 @@
-.formfield {
+.formField {
   display: block;
   margin-bottom: 10px;
 }
@@ -7,6 +7,6 @@
   margin-bottom: 0;
 }
 
-.bloc {
+.block {
   margin-bottom: 20px;
 }
